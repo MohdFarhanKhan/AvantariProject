@@ -1,0 +1,6 @@
+framework module Pods_AvantariProject {
+  umbrella header "Pods-AvantariProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

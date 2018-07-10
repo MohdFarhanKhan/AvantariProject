@@ -1,0 +1,20 @@
+PODS:
+  - Charts (3.1.1):
+    - Charts/Core (= 3.1.1)
+  - Charts/Core (3.1.1)
+  - Socket.IO-Client-Swift (13.0.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+
+DEPENDENCIES:
+  - Charts
+  - Socket.IO-Client-Swift (~> 13.0.0)
+
+SPEC CHECKSUMS:
+  Charts: 90a4d61da0f6e06684c591e3bcab11940fe61736
+  Socket.IO-Client-Swift: 7055c89b7a9926b343194c4cac75998329c4a95a
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+
+PODFILE CHECKSUM: ec1923ecdea5bd95a74df5d3d6edf4085e2306c9
+
+COCOAPODS: 1.3.1

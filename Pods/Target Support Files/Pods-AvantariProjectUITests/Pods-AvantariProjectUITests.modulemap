@@ -1,0 +1,6 @@
+framework module Pods_AvantariProjectUITests {
+  umbrella header "Pods-AvantariProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
